@@ -1,0 +1,1 @@
+cmd /k chdir /d $(CURRENT_DIRECTORY) & copy d:\init.cpp $(NAME_PART).cpp & exit
