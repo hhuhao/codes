@@ -1,1 +1,0 @@
-cmd /k chdir /d $(CURRENT_DIRECTORY) & g++ $(NAME_PART).cpp -o $(NAME_PART) &$(NAME_PART).exe & pause & exit
